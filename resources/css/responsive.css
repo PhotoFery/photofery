@@ -1,0 +1,154 @@
+@media (max-width: 540px){
+  .banner-body-left {
+    text-align: center !important;
+}
+.google-store {
+    text-align: center !important;
+}
+h2 {
+    font-size: 2.25em !important;
+}
+.book-on-left-icon {
+    float: none;
+    margin: 0 auto;
+}
+.book-on-right-icon {
+    float: none;
+    margin: 0 auto;
+}
+.book-on-left-text, .book-on-right-text {
+    width: 300px;
+}
+.book-on-left-text h6, .book-on-right-text h6 {
+	padding-top: 10px;
+}
+.book-on-left-text {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+.book-on-right-text {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+.bookon-mid-img {
+    text-align: center;
+}
+
+.subscribe-body {
+    padding-top: 0px;
+}
+.subscribe-form {
+    padding: 60px 10px 0 10px;
+}
+.save-time-money-body {
+    padding: 0 10px;
+    text-align: center;
+}
+.again_pass {
+	margin-left: 63px;
+}
+.footer-nav-link li {
+    margin: 0 4px;
+}
+.how-work-img:before {
+    display: none;
+}
+.hr-design:before {
+    display: none;
+}
+.padd-top-80 {
+    padding-top: 20px;
+}
+
+}
+
+
+@media (max-width: 768px){
+.container {
+    max-width: 750px;
+}
+.nav-menu.padd-35 {
+	padding: 0;
+}
+h2 {
+    font-size: 2.25em;
+}
+.nav-menu .navbar-nav {
+background: #8b0f17;
+    padding: 20px 0;
+    overflow-x: hidden;
+    margin-top: 15px;
+    text-align: center;
+}
+.nav-menu .nav-item {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+.nav-menu .nav-item:last-child {
+	border-top: 0;
+	border-bottom: 0;
+	margin-top: 15px;
+}
+.nav-download-a {
+    width: 138px;
+    margin: 0 auto !important;
+    }
+    .book-on-left-text, .book-on-right-text {
+    width: 100%;
+}
+.book-on-left, .book-on-right {
+    height: auto;
+}
+.book-on-left-icon, .book-on-right-icon {
+    position: relative;
+    top: 0;
+    transform: translateY(0%);
+}
+.bookon-mid-img {
+    position: relative;
+}
+.bookon-mid-img img {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: translate(0);
+    height: 400px;
+}
+.subscribe-body {
+    padding-top: 0;
+}
+.save-time-money-body {
+    padding: 0 40px;
+}
+.ask-question-contact-form {
+    padding: 30px 10px;
+}
+.how-work-img:before {
+    display: none;
+}
+.hr-design:before {
+    display: none;
+}
+.padd-top-80 {
+    padding-top: 20px;
+}
+
+}
+
+
+
+@media (max-width: 992px){
+.container {
+    max-width: 970px;
+}
+}
+
+
+@media (max-width: 1200px){
+.container {
+    max-width: 1170px;
+}
+}
+
